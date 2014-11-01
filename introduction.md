@@ -2,7 +2,7 @@ I'm Julien Breux
 
 Favorite part in CodeSchool: Ruby
 
-Skills list:
+Skills:
 * Git
 * JavaScript
 * Ruby
